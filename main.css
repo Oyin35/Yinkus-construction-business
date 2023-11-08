@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title ,.hero ,.main ,.style ,.page ,.class ,.script {
+    background-color: wheat;
+}
+.title {
+    color: orangered;
+}
+
+h2 {
+    color: orangered;
+}
+
+.style {
+    color: black;
+}
+
+.page {
+    color: black;
+}
+.label {
+    color: black;
+}
+.case {
+    color: black;
+    background-color: black;
+    width: 1200px;
+    color: white;
+}
+.img {
+    background-color: wheat;
+}
+
+.div {
+    background-color: antiquewhite;
+}
+.footer {
+    background-color: antiquewhite;
+    height: 450px;
+}
+
+.about {
+    background-color: antiquewhite;
+}
+
